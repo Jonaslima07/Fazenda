@@ -1,0 +1,8 @@
+Situação financeira da fazenda
+Relatório gerado no dia 16/12/2023 às 21:12:25
+
+Despesa com folha de pagamento: R$10309.51
+Receita com vendas de animais: R$22692.5
+Receita com vendas de leite: R$320.0
+Situação: Lucro de R$12702.99
+
